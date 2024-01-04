@@ -20,12 +20,6 @@ public class ThreadMain {
 
         System.out.println(Runtime.getRuntime().availableProcessors());
 
-
-
-
-
-
-
     }
 
 
